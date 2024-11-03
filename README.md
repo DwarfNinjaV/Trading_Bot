@@ -27,7 +27,7 @@ A Python bot for automatically buying and selling SOL on the Solana network base
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/solana-trading-bot.git
+   git clone https://github.com/DwarfNinjaV/solana-trading-bot.git
    cd solana-trading-bot
    ```
 
